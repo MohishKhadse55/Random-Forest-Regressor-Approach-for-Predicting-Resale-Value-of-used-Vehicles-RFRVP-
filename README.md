@@ -1,6 +1,12 @@
 # Old-Car-Price-Prediction
-# Get the price for your car
-Users can get the price of their used cars within the short spam of time. Users just need to fill the basic details of their car.
+
+# Goal  This project aims to predict the price of a used car by taking its Year, its EX-showroom Price, Kilometer Driven, and other parameters.
+
+#Process
+HTML,CSS and Bootstrap as a Frontend Programming Language Machine learning, Python as a Backend programming language Use the 5 different types of models to perform predictions.
+
+#Features
+This project takes the parameters of a used car like Year of Purchase, Fuel Type, Number of Kilometers, Owners, Transmission, and Seller Type .Then it predicts the possible price of the car
 
 ## Technology Used  
 
