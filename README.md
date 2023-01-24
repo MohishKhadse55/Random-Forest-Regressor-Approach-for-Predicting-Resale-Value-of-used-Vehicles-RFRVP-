@@ -1,4 +1,4 @@
-# Old-Car-Price-Prediction
+# Random Forest Regressor Approach for Predicting Resale Value of used Vehicles (RFRVP)
 
 ## Goal 
 This project aims to predict the price of a used car by taking its Year, its EX-showroom Price, Kilometer Driven, and other parameters.
